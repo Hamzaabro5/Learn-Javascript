@@ -1,20 +1,8 @@
-// const num1 = +prompt(`Give First Numbers`)
-// const num2 = +prompt(`Give Second Numbers`)
+const arr = [`water` , `mango` , `orange ` , `grapes` , `strwaaberry` , `dragon fruit` , `Pomegrante` , `Avacado`]
 
-// const totalNum = num1 + num2
+const ul = document.querySelector(`ul`)
 
-// if (totalNum > 100) {
-//     console.log(`Limit is reached`);
-// }else{
-//     console.log(totalNum);
-// }
-
-
-
-
-// const h1 = document.querySelector(`h1`)
-
-
-// function greetUser() {
-//     h1.innerHTML = `Hello JavaScript`
-// }
+for (let i = 0; i < arr.length; i++) {
+    ul.innerHTML += `<li>${arr[i]}</li>`
+    
+}
