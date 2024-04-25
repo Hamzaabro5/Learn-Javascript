@@ -59,11 +59,11 @@ console.log(`Hello Arrays`);
 // shift = array ki shuru ki ek value nikaldega h
 //splice = array k beech se koi bh value remove krskte or sath replace bh fruits.splice('kaha se shuru krna' , 'kitna delete krne' , 'iski jagha kia rkhna')
 //slice = array ki ek copy bana k phr return krega (main array m kuch changes nh krta)
-//split =  tor k string ki array banata h
-//join = jese split torta h wese join jorta h
+//split =  tor k string ko array banata h
+//join = jese split tor k array banata wese join array ko string bnanata 
 //concat = 
 //sort =
-//reverse =
+//reverse = array ulta kardega mtlb value accending to decending hojaigi ulat
 // Includes = check krega k value h ya nh
 //indexof = batadega k string(like banana,apple) konse index pr h
 
