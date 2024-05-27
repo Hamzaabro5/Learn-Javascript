@@ -48,14 +48,6 @@
 
 
 
-
-
-
-
-
-
-
-
 // TASK
 
 // const products = [
