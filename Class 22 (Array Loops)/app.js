@@ -47,6 +47,14 @@ const arr = [`apple` , `mango` , `orange` , `grapes` , `banana`];
 
 
 
+
+
+
+
+
+
+
+
 //Array Loops
 
 // const arr = ['apple', 'banaana', 'orange', 'watermelon', 'guava', 'mango'];
@@ -74,3 +82,115 @@ const arr = [`apple` , `mango` , `orange` , `grapes` , `banana`];
 //     // console.log(user[key])
 //     console.log(`${key} ==> ${user[key]}`);
 // }
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+//foreach
+//map
+//filter
+//reduce
+
+
+//callback
+//higher order function
+
+
+//callback function wo function hota ha jo ma kisi bhi function ka as an argument bhejdeta krdeta ho
+
+// arr.forEach(function (item){
+//     console.log(item)
+// })
+
+
+// const iteratedItem = arr.forEach((item , index)=>{
+//     // console.log(item);
+//     // div.innerHTML += `<h1>${item}</h1>`
+//     // return item
+// })
+// console.log(iteratedItem);
+
+// const num = [1, 2, 3, 4, 5, 6, 7, 8, 9];
+
+// const iteratedItems = num.map((item, index) => {
+//     // console.log(item);
+//     // div.innerHTML += `<h1>${item}</h1>`
+//     return item + 120
+// })
+
+// console.log(iteratedItems);
+
+
+
+// const sumOfNum = num.map(item => item + 10);
+// const sumOfNum = num.map(item => item > 5);
+
+// console.log('mapped===>', sumOfNum);
+
+
+
+// const filtered = num.filter((item) => {
+//     return item > 5
+// })
+// console.log('filtered===>', filtered);
+
+
+
+// let filteredArr = []
+// for (let i = 0; i < num.length; i++) {
+//     // console.log(num[i]);
+//     if (num[i] > 5) {
+//         // console.log(num[i])
+//         filteredArr.push(num[i])
+//     }
+// }
+
+// console.log(filteredArr);
+
+
+// let filtered = num.filter(item => item > 5);
+// console.log(filtered);
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
