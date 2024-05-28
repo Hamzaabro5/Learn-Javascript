@@ -47,10 +47,7 @@ var marks4 =+prompt("Obtained Marks of Urdu");
 var marks5 =+prompt("Obtained Marks of English");
 var obtain =(marks1 + marks2 + marks3 + marks4 + marks5);
 
-console.log(obtain);
-
-var totalMarks =("Out of 450");
-console.log(totalMarks);
+console.log(`${obtain} out of 450`);
 
 var percent =(obtain / 450 *100);
-console.log(percent);
+console.log(`${percent}%`);
