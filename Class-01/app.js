@@ -1,8 +1,8 @@
-// var  firstName = "Muhammad";
-// var  lastName = "Hamza Abro";
-// var age = "18";
+var  firstName = "Muhammad";
+var  lastName = "Hamza Abro";
+var age = "18";
 
-// console.log('My Name is' + ' ' + firstName + ' ' + lastName + ' ' + 'I am' + ' ' + age + ' ' + 'years old' );
+console.log('My Name is' + ' ' + firstName + ' ' + lastName + ' ' + 'I am' + ' ' + age + ' ' + 'years old' );
 
 
 
@@ -11,9 +11,9 @@
 
 
 
-// var age1 = 14;
-// var age2 = 19;
+var age1 = 14;
+var age2 = 19;
 
-// console.log(age1 + age2);
+console.log(age1 + age2);
 
 
