@@ -1,4 +1,6 @@
 // Promises
+// API
+// TRY CATCH
 
 //   fetch().then().catch()   Thats how promise will be execute
 
@@ -148,23 +150,88 @@
 
 
 
-// TASK
 
-const div = document.querySelector(`div`)
 
-axios(`https://fakestoreapi.com/products`)
-.then((res)=>{
-    console.log(res.data);
-    res.data.map((item)=>{
-        div.innerHTML += `
-        <img src="${item.image}" width = "200" alt="">
-        <h1>Title: ${item.title}</h1>
-        <h1>Price: ${item.price}</h1>
-        <p>Description: ${item.description}</p>
-        <hr/>
-        `
-    })
 
-}).catch((err)=>{
-    console.log(err);
-})
+
+
+
+
+
+
+
+// try {
+//     aler(`Hello World`)
+// } catch (err) {
+//     console.log(err);
+// }
+// console.log(`log after alert`);
+
+// // Try and catch code ko rokega nh agar first line pe error aya to warna bagair try and catch error ate hi code ruk jaiga
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+// // TASK
+
+// const div = document.querySelector(`div`)
+
+// axios(`https://fakestoreapi.com/products`)
+// .then((res)=>{
+//     console.log(res.data);
+//     res.data.map((item)=>{
+//         div.innerHTML += `
+//         <img src="${item.image}" width = "200" alt="">
+//         <h1>Title: ${item.title}</h1>
+//         <h1>Price: ${item.price}</h1>
+//         <p>Description: ${item.description}</p>
+//         <hr/>
+//         `
+//     })
+
+// }).catch((err)=>{
+//     console.log(err);
+// })
+
+
+
+
+
+
+
+
+
+
+
+
