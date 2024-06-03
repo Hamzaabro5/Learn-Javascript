@@ -2,26 +2,26 @@
 
 // 1, Variable Scoping
 // 2, Closure
-// 3, Template literals
-// 4, Destructuring
-// 5, Default parameters
-// 6, Rest parameter
-// 7, Spread Operator
-// 8, Arrow functions
-// 9, Enhanced object literals
-// 10, Iterators & For..of
-// 11, Generators
-// 12, Modules
-// 13, Map
-// 14, Array methods
-// 15, Higher-order function
-// 16, CallBack
-// 17, Promises
-// 18, Exponentiation Operator
-// 19, Classes
-// 20, Ternary Operator
-// 21, Optional chaining
-
+// 3, Generators
+// 4, Modules
+// 5, Exponentiation Operator
+// 6, Optional chaining
+// 7, Object Methods (keys,values,freez,entries)
+// 8, Destructuring //p
+// 9, Template literals //p
+// 10, Destructuring //p
+// 11, Default parameters //p
+// 12, Rest parameter //p
+// 13, Spread Operator //p
+// 14, Arrow functions  //p
+// 15, Enhanced object literals //p
+// 16, Iterators & For..of  //p
+// 17, Map  //p
+// 18, Array methods  //p
+// 19, Higher-order function  //p
+// 20, CallBack  //p
+// 21, Promises  //p
+// 22, Ternary Operator //p
 
 
 
