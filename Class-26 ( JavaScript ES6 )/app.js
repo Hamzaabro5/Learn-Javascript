@@ -87,9 +87,70 @@
 
 
 
+
+
 // , Rest Operator
 
 // function hello(...username) {
 //     console.log(username);
 // }
 // hello(`hamza` , `jawad` , `haseeb` , `hassan` , `izhan`)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+// // , Ternary Operator
+
+// const num = 90
+
+// // if (num > 60) {
+// //     console.log(`Pass`);
+// // } else {
+// //     console.log(`Fail`);
+// // }
+
+// num > 60 ? console.log(`Pass`) : console.log(`Fail`);
+
+
+// // OR
+
+// // if (num > 80) {
+// //     console.log(`Behter`);
+// // } else if(num > 50) {
+// //     console.log(`Pass`);
+// // } else {
+// //     console.log(`Failed`);
+// // }
+
+// num > 70 ? console.log(`Behtreen`) : num > 50 ? console.log(`Pass`) : console.log(`Fail`)
+
+
+
+
+
+
+
+
+
+
+
+
+// //  , Default Parameter
+
+// function hello(username = `abc`) {
+//     console.log(username);   
+// }
+// hello()
+
