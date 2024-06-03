@@ -1,4 +1,26 @@
-// Topics Of ES6
+// // Topics Of ES6
+
+// 1, Variable Scoping
+// 2, Closure
+// 3, Template literals
+// 4, Destructuring
+// 5, Default parameters
+// 6, Rest parameter
+// 7, Spread Operator
+// 8, Arrow functions
+// 9, Enhanced object literals
+// 10, Iterators & For..of
+// 11, Generators
+// 12, Modules
+// 13, Map
+// 14, Array methods
+// 15, Higher-order function
+// 16, CallBack
+// 17, Promises
+// 18, Exponentiation Operator
+// 19, Classes
+// 20, Ternary Operator
+// 21, Optional chaining
 
 
 
@@ -19,8 +41,7 @@
 
 
 
-
-// // // 3, Destructuring
+// // // 4, Destructuring
 
 // // Object Destructuring
 
@@ -58,7 +79,7 @@
 
 
 
-// // , Spread Operator
+// // 7, Spread Operator
 
 
 // const fruit = [`apple` , `banana` , `orange` , `mango`]
@@ -89,7 +110,7 @@
 
 
 
-// , Rest Operator
+// 6, Rest Operator
 
 // function hello(...username) {
 //     console.log(username);
@@ -111,7 +132,7 @@
 
 
 
-// // , Ternary Operator
+// // 20, Ternary Operator
 
 // const num = 90
 
@@ -147,10 +168,27 @@
 
 
 
-// //  , Default Parameter
+// //  5, Default Parameter
 
 // function hello(username = `abc`) {
 //     console.log(username);   
 // }
 // hello()
 
+
+
+
+
+
+
+
+// //  9, Enhanced Object Literals
+
+// let names = `abd`;
+// let age = 21;
+
+// let user = {
+//     names,
+//     age,
+// }
+// console.log(user);
