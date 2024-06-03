@@ -2,7 +2,14 @@
 // API
 // TRY CATCH
 
-//   fetch().then().catch()   Thats how promise will be execute
+
+
+
+//   fetch().then().catch()
+//   Async Await
+
+// This are two method to execute Promise
+
 
 
 
@@ -153,6 +160,13 @@
 
 
 
+// // // ASYNC AWAIT
+
+// async function getData() {
+//    const res = await axios(`https://fakestoreapi.com/products`);
+//    console.log(res.data);
+// }
+// getData()
 
 
 
