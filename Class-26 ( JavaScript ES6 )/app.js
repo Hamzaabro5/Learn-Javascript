@@ -192,3 +192,117 @@
 //     age,
 // }
 // console.log(user);
+
+
+
+
+
+
+
+
+
+
+
+
+
+// // 1, Variable Scoping
+
+// // Local Variable
+// // Global Variable
+
+
+
+
+// // // Local Variable
+// let user = `Hamza`
+
+
+
+
+// // // Global Variable
+// function user() {
+//     let username = `Hamza`
+// }
+
+
+
+
+// // Let and const is block scope
+
+// if (true) {
+//     var age = `18`
+// }
+// console.log(age);
+
+// // Var is not block scope so it will log
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+// // 2, Closure
+
+// function outerFunction() {
+//     let a = 10;
+
+//     function nestedFunction() {
+//         console.log(a);
+//     }
+//     nestedFunction()
+// }
+// outerFunction()
+
+// function outerFunction() {
+//         let a = 10;
+    
+//         function nestedFunction() {
+//             let b = 20;
+//             // console.log(a);
+
+//             function nestedFunction2() {
+//                 console.log(a);
+//                 console.log(b);
+//             }
+//             }
+//             nestedFunction()
+//             nestedFunction2()
+//     }
+// outerFunction()
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
