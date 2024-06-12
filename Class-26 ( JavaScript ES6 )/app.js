@@ -304,5 +304,50 @@
 
 
 
+// // 6, Optional Chaining
+
+
+// const user = {
+//     username : `hamza`,
+//     age : 18,
+//     nestedObj : {
+//         fullname : `Muhammad Hamza`,
+//         DTB : `21-06-2006`,
+// }
+
+// }
+// console.log(user);
+// console.log(user.nestedObj);
+// console.log(user.nestedOb?.DTB);
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+// // 5, Exponentiation Operator
+
+// console.log(4 ** 5);
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
