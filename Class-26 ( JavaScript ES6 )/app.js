@@ -333,10 +333,15 @@
 
 
 
-// // 5, Exponentiation Operator
+// // // 5, Exponentiation Operator
 
 // console.log(4 ** 5);
 
+// console.log(2 ** 3);
+
+// // Precedence
+// console.log(2 + 3 ** 2); // ** isko zyada precedence milaigi
+// console.log((2 + 3) ** 2);
 
 
 
