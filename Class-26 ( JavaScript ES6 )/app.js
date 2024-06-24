@@ -3,10 +3,10 @@
 // 1, Variable Scoping //P
 // 2, Closure //p
 // 3, Generators 
-// 4, Modules
+// 4, Modules //p
 // 5, Exponentiation Operator /p
 // 6, Optional chaining //p
-// 7, Object Methods (keys,values,freez,entries)
+// 7, Object Methods (keys,values,freez,entries) //p
 // 8, Destructuring //p
 // 9, Template literals //p
 // 10, Destructuring //p
@@ -356,3 +356,33 @@
 
 
 
+
+
+
+
+
+
+
+
+// // Objects Methods (keys , freeze , entries , Value)
+
+// const user = {
+//         username : `hamza`,
+//         age : 18,
+//         isLoggedIn: true,
+//     }
+
+
+// // Object.freeze(user);
+// // console.log(Object.keys(user));
+// // console.log(Object.values(user));
+// // console.log(Object.entries(user));
+
+
+
+
+
+
+
+
+// Modules in Another Folder in classes
