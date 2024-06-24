@@ -1,11 +1,11 @@
 // // Topics Of ES6
 
-// 1, Variable Scoping
-// 2, Closure
-// 3, Generators
+// 1, Variable Scoping //P
+// 2, Closure //p
+// 3, Generators 
 // 4, Modules
-// 5, Exponentiation Operator
-// 6, Optional chaining
+// 5, Exponentiation Operator /p
+// 6, Optional chaining //p
 // 7, Object Methods (keys,values,freez,entries)
 // 8, Destructuring //p
 // 9, Template literals //p
