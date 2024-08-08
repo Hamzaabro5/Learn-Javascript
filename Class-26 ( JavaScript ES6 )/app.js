@@ -213,13 +213,13 @@
 
 
 
-// // // Local Variable
+// // // Global Variable
 // let user = `Hamza`
 
 
 
 
-// // // Global Variable
+// // // Local Variable
 // function user() {
 //     let username = `Hamza`
 // }
